@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee!-yellow?style=for-the-badge)](https://www.buymeacoffee.com/ivansuhends)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iseplutpinur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-suhendra)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=van-grafity&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=van-grafity&theme=light&hide_border=false)<br/>
