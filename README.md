@@ -2,7 +2,7 @@
 💼 Happy coding!
 
 
-[![](https://visitcount.itsvg.in/api?id=upi20&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee!-yellow?style=for-the-badge)](https://www.buymeacoffee.com/ivansuhends)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iseplutpinur)
