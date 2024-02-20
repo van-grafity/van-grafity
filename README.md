@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee!-yellow?style=for-the-badge)](https://www.buymeacoffee.com/ivansuhends)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-suhendra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17257854/hendra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-suhendra-bb061a174) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17257854/hendra)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=van-grafity&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
