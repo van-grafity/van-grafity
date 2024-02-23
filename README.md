@@ -4,7 +4,7 @@
 <br>
 
 # 💫 About Me:
-💼 <h3 align="left">A Full Stack Development 🚀 from Indonesia</h3>
+💼 A Full Stack Development 🚀 from Indonesia
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-suhendra-bb061a174) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17257854/hendra)
