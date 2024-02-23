@@ -5,6 +5,8 @@
 <br>
 
 # 💫 About Me:
+<h3 align="left">A Full Stack Development 🚀 from Indonesia</h3>
+
 💼 Happy coding!
 
 ## 🌐 Socials:
@@ -25,4 +27,4 @@
 
 ***********************************
 
-#### Thank You-🙏🏼
+#### Thank You
