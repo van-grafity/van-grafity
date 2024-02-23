@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A Full Stack Development 🚀 from Indonesia</h3>
 
 <br>
 <br>
