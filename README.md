@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 
-<br>
 
 # 💫 About Me:
 💼 A Full Stack Development 🚀 from Indonesia
