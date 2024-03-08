@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋</h1>
 
-<br>
-
-# 💫 About Me:
+# 👋 About Me:
 💼 A Full Stack Development 🚀 from Indonesia
 
 ## 🌐 Socials:
