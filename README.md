@@ -8,7 +8,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=van-grafity&&show_icons=true&hi&theme=light&count_private=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=van-grafity&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=van-grafity&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=van-grafity&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
